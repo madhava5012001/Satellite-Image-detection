@@ -1,1 +1,1 @@
-# Satellite-Image-detection
+# Satellite-Image-Classification
